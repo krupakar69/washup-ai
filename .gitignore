@@ -1,0 +1,5 @@
+backend/models/colorization_release_v2.caffemodel
+frontend/node_modules/
+__pycache__/
+*.pyc
+.env
